@@ -46,3 +46,6 @@ Evaluate trained model
 ```
 bash batch_eval.sh
 ```
+
+### Contact
+For any quries, preprocssed dataset, pre-trained checkpoint contact Ke Yu (email: yu.ke@pitt.edu).
