@@ -1,4 +1,4 @@
-## Anatomy-specific Progression Classification in Chest Radiographs via Weakly Supervised Learning
+## [Anatomy-specific Progression Classification in Chest Radiographs via Weakly Supervised Learning](https://pubs.rsna.org/doi/10.1148/ryai.230277)
 
 
 <p align="center">
