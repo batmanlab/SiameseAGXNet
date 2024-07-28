@@ -31,4 +31,5 @@ https://pubs.rsna.org/doi/10.1148/ryai.230277
 ```
 
 ### Data Download
-[MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.1.0/):The MIMIC Chest X-ray (MIMIC-CXR) Database v2.0.0 is a large publicly available dataset of chest radiographs in DICOM format with free-text radiology reports. 
+* [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.1.0/): a large dataset of chest radiographs in DICOM format with free-text radiology reports. 
+* [RadGraph](https://physionet.org/content/radgraph/1.0.0/):a dataset of entities and relations in full-text radiology reports from MIMIC-CXR.
