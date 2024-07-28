@@ -18,12 +18,15 @@ Disease progression classification models were developed on a large chest radiog
 ### Paper Link
 Radiology AI: https://pubs.rsna.org/doi/10.1148/ryai.230277
 
-This is the PyTorch implementation of the [journal paper](https://pubs.rsna.org/doi/10.1148/ryai.230277)
+### Citation
 ```
-@Article{doi:10.1148/ryai.230277,
-author = {Yu, Ke and Ghosh, Shantanu and Liu, Zhexiong and Deible, Christopher and Poynton, Clare B. and Batmanghelich, Kayhan},
-title = {Anatomy-specific Progression Classification in Chest Radiographs via Weakly Supervised Learning},
-journal = {Radiology: Artificial Intelligence},
+@article{yu2024anatomy,
+  title={Anatomy-specific Progression Classification in Chest Radiographs via Weakly Supervised Learning},
+  author={Yu, Ke and Ghosh, Shantanu and Liu, Zhexiong and Deible, Christopher and Poynton, Clare B and Batmanghelich, Kayhan},
+  journal={Radiology: Artificial Intelligence},
+  pages={e230277},
+  year={2024},
+  publisher={Radiological Society of North America}
 }
 ```
 
