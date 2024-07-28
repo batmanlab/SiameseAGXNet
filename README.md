@@ -33,3 +33,4 @@ https://pubs.rsna.org/doi/10.1148/ryai.230277
 ### Data Download
 * [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.1.0/): a large dataset of chest radiographs in DICOM format with free-text radiology reports. 
 * [RadGraph](https://physionet.org/content/radgraph/1.0.0/):a dataset of entities and relations in full-text radiology reports from MIMIC-CXR.
+* [ImaGenome](https://physionet.org/content/chest-imagenome/1.0.0/): a dataset of bounding box annotations of anatomies in MIMIC-CXR chest radigraphs. 
