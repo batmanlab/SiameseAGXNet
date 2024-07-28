@@ -1,4 +1,4 @@
-## [Anatomy-specific Progression Classification in Chest Radiographs via Weakly Supervised Learning](https://pubs.rsna.org/doi/10.1148/ryai.230277)
+## Anatomy-specific Progression Classification in Chest Radiographs via Weakly Supervised Learning
 
 
 <p align="center">
@@ -15,6 +15,8 @@ The model outperformed most baselines in progression classification, achieving m
 #### Conclusion:
 Disease progression classification models were developed on a large chest radiograph dataset, which can be used to monitor interval changes and detect new pathologies on chest radiographs.
 
+### Paper Link
+Radiology AI: https://pubs.rsna.org/doi/10.1148/ryai.230277
 
 This is the PyTorch implementation of the [journal paper](https://pubs.rsna.org/doi/10.1148/ryai.230277)
 ```
