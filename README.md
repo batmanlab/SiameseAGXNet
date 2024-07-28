@@ -16,7 +16,7 @@ The model outperformed most baselines in progression classification, achieving m
 Disease progression classification models were developed on a large chest radiograph dataset, which can be used to monitor interval changes and detect new pathologies on chest radiographs.
 
 ### Paper Link
-Radiology AI: https://pubs.rsna.org/doi/10.1148/ryai.230277
+https://pubs.rsna.org/doi/10.1148/ryai.230277
 
 ### Citation
 ```
