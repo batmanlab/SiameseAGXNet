@@ -50,4 +50,4 @@ bash batch_eval.sh
 ```
 
 ### Contact
-For any quries, including configurations, preprocssed datasets, pre-trained checkpoints, contact Ke Yu (email: yu.ke@pitt.edu).
+For any quries, contact Ke Yu (email: yu.ke@pitt.edu).
