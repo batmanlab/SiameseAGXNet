@@ -35,7 +35,7 @@ https://pubs.rsna.org/doi/10.1148/ryai.230277
 * [RadGraph](https://physionet.org/content/radgraph/1.0.0/):a dataset of entities and relations in full-text radiology reports from MIMIC-CXR.
 * [ImaGenome](https://physionet.org/content/chest-imagenome/1.0.0/): a dataset of bounding box annotations of anatomic parts in MIMIC-CXR chest radigraphs.
 * [Preprocessed data](https://huggingface.co/gatechke/AGXNet/tree/main/preprocessing): preprocssed data files required for training and evaluation.
-* [Pre-trained AGXNet] (): pre-trained AGXNet checkpoint.
+* [Pre-trained AGXNet] (https://huggingface.co/gatechke/AGXNet/tree/main/checkpoints): pre-trained AGXNet checkpoint.
 
 ### Instructions
 
