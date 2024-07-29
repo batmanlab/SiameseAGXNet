@@ -106,7 +106,7 @@ parser.add_argument('--excluded-obs', nargs='+', default=['excluded_obs'])
 parser.add_argument('--selected-obs', default='pneumothorax')
 
 # model
-parser.add_argument('--ckpt-dir', metavar='PATH', default='./checkpoints/obs_23_ana_46',
+parser.add_argument('--ckpt-dir', metavar='PATH', default='./checkpoints',
                     help='Checkpoint directory')
 parser.add_argument('--ckpt-name', metavar='PATH', default='model_best.pth.tar',
                     help='Checkpoint directory')
